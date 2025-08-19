@@ -1,2 +1,1 @@
-# Python-Ransomware
-Simple Ransomware coded in Python
+# NEVER run this on your computer (21e804fd)
